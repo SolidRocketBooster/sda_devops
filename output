@@ -1,0 +1,16 @@
+64e95c158ee83f440be4ac724e03af3b  addall.sh
+2da664d73989d0e057f7902717aabb50  ctof.sh
+1626ee6cf5f6a27b56b0b86f8d42bece  docker_compose.sh
+3e7307db60b946f33ecca71e18e8e4a5  game.sh
+7099c51ad329fc1d15936c4ec42ea682  hwc++.sh
+258e37d6f2bd369aa4a8a16712c5b7c5  hwjava.sh
+2cf96bc3651e74c48708f14d2279cc9f  input
+3ad254023dde7676b9d32eef8e2114fe  makefiles.sh
+b5ea95f38bdfa46c4a9322acd08c1dfd  md4sum_gen.sh
+b800429aa18c20fb001d3ca407548062  min.sh
+45ae3054ba0a3cdcf6a4f81b9a9b02d8  open.sh
+4592c3497d9ac539a061e28c2acccfa9  output
+da998fa159c47cab80c35644a56b9b9c  printall.sh
+5aee53c01e69d641d946e86e867e5f51  readme.txt
+ddff731ff289c6f214d4d06bb0fb939f  triangle.sh
+f2917719bc1366ac7e4f770b86c22690  www_server.sh
